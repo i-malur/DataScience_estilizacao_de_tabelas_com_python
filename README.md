@@ -51,7 +51,6 @@ Este repositório serve como uma demonstração prática de como tabelas bem est
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0A66C2?style=for-the-badge&logo=tableau&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
 ## ⚙️ Como executar
